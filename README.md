@@ -2,4 +2,4 @@
 Use CYD_Panel as remote control.
 
 **Download:** https://github.com/JaapDanielse/CYD_Panel_ESPNow/releases<br>
-**Documentation:** https://github.com/JaapDanielse/CYD_Panel_ESPNow/wiki <br>
+**Documentation:** https://github.com/JaapDanielse/CYD_Panel/wiki/Remote-Control<br>

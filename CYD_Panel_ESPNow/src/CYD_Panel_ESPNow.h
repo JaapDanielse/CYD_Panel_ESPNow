@@ -4,9 +4,7 @@
 
   CYD_Panel_ESPNow is an addition to CYD_Panel. It allows to use CYD_Panel as a remote for most Arduino IDE - ESP boards.
 
-  V 1.0.2 29-04-2026 uniformed externally used enum names to CYD_... , Since %F is available, removed _FString support functions
-  V 1.0.1 26-04-2026 Added support for Send int32_t and int.
-  V 1.0.0 30-03-2026 Original version
+  V 1.0.0 03-05-2026 Initial Version
 		
 */
 

@@ -1,4 +1,4 @@
-CYD_Panel_ESPNow Release 1.0.0 (November 2025)
+CYD_Panel_ESPNow Release 1.0.0 (May 2026)
 
 CYD_Panel_ESPNow is an Arduino libray remotely access a Cheap Yellow Display running CYD_Panel and the ESPNow sketch.
 CYD_Panel_ESPNow can only be used on ESP boards (ESP23 ESP8266)
@@ -10,7 +10,6 @@ Cheap Yellow Display (CYD)
 
 Required underlying libraries
   The remote functionality used by CYD_Panel_ESPNow is implemented using the esp_now and Wifi libraries for ESP .
-
 
 Installing the CYD_Panel_ESPNow library
   CYD_Panel_ESPNow can be installed as a standard Arduino .zip library.

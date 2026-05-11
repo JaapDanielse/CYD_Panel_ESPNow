@@ -4,7 +4,7 @@
 
 //-- ESP_Now ----------------------------------------------------------------
 
-int WiFiChannel = 1; // channel numbers are 1 trough 14 (default 1)
+int CYD_WiFiChannel = 1; // channel numbers are 1 trough 14 (default 1)
 //const int WiFiChannel = 13; // channel numbers are 1 trough 14 (default 1)
 
 uint8_t broadcastAddress[] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF}; // generic broadcast MAC address

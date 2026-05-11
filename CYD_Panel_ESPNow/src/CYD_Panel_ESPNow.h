@@ -279,7 +279,7 @@ bool SendEspNowData(const uint8_t * peer_addr, const uint8_t * data, size_t len)
 
 void FindPeer(CYD_layout layout);
 
-extern int WiFiChannel; // channel numbers are 1 trough 14 (default 1)
+extern int CYD_WiFiChannel; // channel numbers are 1 trough 14 (default 1)
 
 
 
